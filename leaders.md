@@ -1,2 +1,2 @@
 ### Leaders
-* [Temitope](mailto:temitope.odemo@owasp.org)
+* [Temitope Odemo](mailto:temitope.odemo@owasp.org)
