@@ -9,8 +9,6 @@ region: Africa
 
 <div style='color:black;'>
 
-Welcome
-
 Welcome to the OWASP Lagos chapter home page.  Lagos is the most populous city in Nigeria and of Sub-Saharan Africa. Lagos is one of the fastest growing cities in the world and one of the most populous urban areas.
 
 </div>
