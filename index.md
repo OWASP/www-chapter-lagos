@@ -14,7 +14,8 @@ Welcome
 Welcome to the OWASP Lagos chapter home page.  Lagos is the most populous city in Nigeria and of Sub-Saharan Africa. Lagos is one of the fastest growing cities in the world and one of the most populous urban areas.
 
 </div>
-https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Victoria_Island_Lagos_Nigeria_15006436297.jpg
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/2014_Victoria_Island_Lagos_Nigeria_15006436297.jpg">
+
 
 <div style='color:black;'>
 
