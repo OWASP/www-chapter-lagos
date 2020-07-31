@@ -1,5 +1,6 @@
 ---
-title: Sponsorship Info
+title: Sponsorship
+displaytext: Sponsorship Info
 layout:  null
 tab: true
 order: 4
