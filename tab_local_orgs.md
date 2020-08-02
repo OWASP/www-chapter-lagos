@@ -4,7 +4,7 @@ displaytext: Local Organizations
 layout:  null
 tab: true
 order: 99
-tags: lagos
+tags: Lagos
 ---
 
 ## Local Organizations
