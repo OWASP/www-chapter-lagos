@@ -4,7 +4,7 @@ displaytext: Code of Conduct
 layout:  null
 tab: true
 order: 2
-tags: lagos
+tags: Lagos
 ---
 
 ## Code of Conduct
