@@ -4,7 +4,7 @@ displaytext: Sponsorship Info
 layout:  null
 tab: true
 order: 4
-tags: lagos
+tags: Lagos
 ---
 
 ## Sponsorship
