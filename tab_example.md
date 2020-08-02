@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP lagos
-tags: lagos
+tags: Lagos
 region: Africa
 meetup-group: OWASP-Lagos-Chapter
 country: Nigeria
