@@ -21,5 +21,7 @@ We are looking for organizations to sponsor our Lagos Chapter.
 
 If you are interested in sponsoring the chapter then please get in touch
 with one of the chapter leaders.
+* [Temitope Odemo](mailto:temitope.odemo@owasp.org)
+* [Akinlawon Fayoku](mailto:akinlawon.fayoku@owasp.org)
 
 
