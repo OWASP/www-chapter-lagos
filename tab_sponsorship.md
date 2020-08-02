@@ -7,7 +7,7 @@ order: 4
 tags: Lagos
 ---
 
-## Sponsorship/Membership
+## Membership
 
 <a href="https://owasp.org/donate/" target="_blank"><img src="assets/images/Donate.gif" alt=""/></a> to this
 chapter or become a local chapter supporter. Or consider the value of [
@@ -15,17 +15,9 @@ Individual, Corporate, or Academic Supporter
 membership](https://owasp.org/membership/). Ready to become a member?
 <a href="https://owasp.org/membership/" target="_blank"><img src="assets/images/BlueIcon.jpeg" alt=""/></a>
 
-### Sponsorship
+## Sponsorship
 
-We are looking for organizations to sponsor the Manchester chapter.
-
-You can sponsor the chapter for one year at the following levels:
-
-  - £1000 Silver
-  - £2000 Gold
-  - £3000 Platinum
-
-You can also sponsor a meeting by hosting the event or donating £200.
+We are looking for organizations to sponsor our Lagos Chapter.
 
 If you are interested in sponsoring the chapter then please get in touch
 with one of the chapter leaders.
