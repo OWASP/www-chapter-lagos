@@ -11,13 +11,17 @@ tags: Lagos
 
 We are looking for organizations to sponsor the Lagos chapter.
 
-## Sponsorship/Membership
+If you are interested in sponsoring the chapter then please get in touch
+with one of the chapter leaders.
+
+## Membership
+
+Ready to become a member?
 
 <a href="https://owasp.org/donate/" target="_blank"><img src="assets/images/Btn_donate_SM.gif" alt=""/></a> to this
 chapter or become a local chapter supporter. Or consider the value of [
 Individual, Corporate, or Academic Supporter
-membership](https://owasp.org/membership/). Ready to become a member?
+membership](https://owasp.org/membership/). 
 <a href="https://owasp.org/membership/" target="_blank"><img src="assets/images/75px-Join_Now_BlueIcon.jpeg" alt=""/></a>
 
-If you are interested in sponsoring the chapter then please get in touch
-with one of the chapter leaders.
+
