@@ -21,7 +21,7 @@ Welcome to the OWASP Lagos chapter home page.  Lagos is the most populous city i
 
 <div style='color:black;'>
 
-Our mission and main priority is to create security awareness and build a community with secure web applications. We invite you to be part of this community project.
+Our mission and main priority is to create Cyber Security Awareness and build a community with secure web applications. We invite you to be part of this community project.
 
 </div>
 
