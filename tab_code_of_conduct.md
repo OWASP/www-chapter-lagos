@@ -1,5 +1,5 @@
 ---
-title: local_orgs
+title: code_of_conduct
 displaytext: Code of Conduct
 layout:  null
 tab: true
