@@ -4,7 +4,7 @@ displaytext: Past Events
 layout:  null
 tab: true
 order: 3
-tags: lagos
+tags: Lagos
 ---
 
 ## Past Events
