@@ -1,11 +1,11 @@
 ---
 
 layout: col-sidebar
-title: OWASP Ghana
-tags: ghana
+title: OWASP lagos
+tags: lagos
 region: Africa
-meetup-group: OWASP-Ghana-Chapter
-country: Ghana
+meetup-group: OWASP-Lagos-Chapter
+country: Nigeria
 postal-code: 
 
 ---
