@@ -7,7 +7,7 @@ order: 4
 tags: Lagos
 ---
 
-## Sponsorship/Membership
+## Membership
 
 <a href="https://owasp.org/donate/" target="_blank"><img src="assets/images/Btn_donate_SM.gif" alt=""/></a> to this
 chapter or become a local chapter supporter. Or consider the value of [
