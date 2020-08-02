@@ -2,8 +2,13 @@
 
 layout: col-sidebar
 title: OWASP Lagos
-tags: example-tag
+tags: manchester
+level: 0
+
 region: Africa
+meetup-group: OWASP-Lagos
+country: Nigeria
+postal-code: 
 
 ---
 
