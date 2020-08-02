@@ -1,13 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP Manchester
-tags: manchester
+title: OWASP Lagos
+tags: Lagos
 level: 0
 
-region: Europe
-meetup-group: OWASP-Manchester
-country: United Kingdom
+region: Africa
+meetup-group: OWASP-Lagos
+country: Nigeria
 postal-code: 
 
 ---
