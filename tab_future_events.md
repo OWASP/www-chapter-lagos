@@ -1,6 +1,6 @@
 ---
-title: code_of_conduct
-displaytext: Code of Conduct
+title: future_events
+displaytext: Future Events
 layout:  null
 tab: true
 order: 2
