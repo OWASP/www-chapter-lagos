@@ -9,9 +9,9 @@ tags: Lagos
 
 
 ### Next Meeting/Event(s)
-Our Chapter meetings are held several times a year, which could be a physical or online location.
+Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-Our next event is planned to take place in September 12, 2020.
+Our next event is planned to take place in September 12, 2020 and its definitely going to be an online event.
 
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
