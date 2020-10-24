@@ -11,12 +11,12 @@ tags: Lagos
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-Our next event is planned to take place in September 12, 2020 and its definitely going to be an online event.
+Our next event tagged OWASP TALKS is planned to take place in October 25, 2020 and its definitely going to be an online event.
 
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
 
-Register to attend this event at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/273060702/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-119763615197?aff=ebdssbonlinesearch). 
+Register to attend this event at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/274025391/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-125821713131). 
 
 You can register to learn about our future events via the OWASP Ghana page at
 [meetup.com](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
