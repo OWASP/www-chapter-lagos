@@ -8,7 +8,7 @@ level: 0
 region: Africa
 meetup-group: OWASP-Lagos
 country: Nigeria
-postal-code: 
+postal-code: 23401
 
 ---
 # Welcome
