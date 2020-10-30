@@ -9,7 +9,4 @@ tags: Lagos
 
 ## Past Events
 ---
-### 2020
-#### 2020 July
-
-
+One of our Past Events [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/274025391/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-125821713131). 
