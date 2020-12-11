@@ -13,6 +13,13 @@ Our Chapter meetings are held several times a year, which could be at a physical
 
 Our next event usually tagged OWASP TALKS is planned to take place on December 12, 2020 by 11AM GMT +1 and its definitely going to be an interesting online event.
 
+<img src="https://secure.meetupstatic.com/photos/event/4/c/4/d/highres_493819533.jpeg">
+
+Event details
+
+1. A hackers mindset
+2. Web App Risk Assessment
+
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
 
