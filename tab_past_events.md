@@ -9,7 +9,9 @@ tags: Lagos
 
 ## Past Events
 ---
-Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/274025391/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-125821713131). 
+Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/past/) or [eventbrite](https://www.eventbrite.com/organizations/events/past). 
+
+<img src="https://secure.meetupstatic.com/photos/event/4/c/4/d/highres_493819533.jpeg">
 
 <img src="https://secure.meetupstatic.com/photos/event/4/2/c/2/highres_493097090.jpeg">
 <bold>Details</bold>
