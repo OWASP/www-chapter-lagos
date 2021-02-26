@@ -13,7 +13,7 @@ postal-code: 23401
 ---
 # Welcome
 
-Welcome to the OWASP Lagos chapter under the leadership of [Temitope Odemo](mailto:temitope.odemo@owasp.org) and [Akinlawon Fayoku](mailto:akinlawon.fayoku@owasp.org). 
+Welcome to the OWASP Lagos chapter under the leadership of [Temitope Odemo](mailto:temitope.odemo@owasp.org), [Akinlawon Fayoku](mailto:akinlawon.fayoku@owasp.org) and [Ayokunle Olaniyi](mailto:ayokunle.olaniyi@owasp.org)
 
 Lagos is the most populous city in Nigeria and of Sub-Saharan Africa. Lagos is one of the fastest growing cities in the world and one of the most populous urban areas.
 
