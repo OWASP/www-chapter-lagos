@@ -11,19 +11,19 @@ tags: Lagos
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-Our next event usually tagged OWASP TALKS is planned to take place on December 12, 2020 by 11AM GMT +1 and its definitely going to be an interesting online event.
+Our next event usually tagged OWASP TALKS is planned to take place on February 27, 2021 by 11AM GMT +1 and its definitely going to be an interesting online event.
 
-<img src="https://secure.meetupstatic.com/photos/event/4/c/4/d/highres_493819533.jpeg">
+<img src="https://secure.meetupstatic.com/photos/event/c/8/4/highres_494763204.jpeg">
 
 Event details
 
-1. A hackers mindset
-2. Web App Risk Assessment
+1. Changed Responsibilities in Modern Software Development Environments
+2. IT Security Governance in Application Development
 
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
 
-Register to attend this event at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/275009332/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-131405079129). 
+Register to attend this event at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/276348722/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-february-edition-tickets-141535324967). 
 
 You can register to learn about our future events via the OWASP Lagos page at
 [meetup.com](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
