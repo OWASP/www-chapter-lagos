@@ -4,9 +4,8 @@ layout: col-sidebar
 title: OWASP Lagos
 tags: Lagos
 level: 0
-
 region: Africa
-meetup-group: OWASP-Lagos
+meetup-group: OWASP-Lagos-Meetup-Group
 country: Nigeria
 postal-code: 23401
 
@@ -26,6 +25,14 @@ Lagos is the most populous city in Nigeria and of Sub-Saharan Africa. Lagos is o
 Our mission and main priority is to create <b>Cyber Security Awareness</b> and build a community with <b>Secure Web Applications</b>. We invite you to be part of this community project.
 
 </div>
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Lagos Meetup Group](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
