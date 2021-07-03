@@ -13,7 +13,7 @@ Our Chapter meetings are held several times a year, which could be at a physical
 
 Our next event usually tagged OWASP TALKS is planned to take place on July 17, 2021 by 11AM GMT +1 and its definitely going to be an interesting online event.
 
-<"https://secure.meetupstatic.com/photos/event/c/8/4/highres_494763204.jpeg">
+<img src="https://secure.meetupstatic.com/photos/event/c/8/4/highres_494763204.jpeg">
 
 Event details
 
