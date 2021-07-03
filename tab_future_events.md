@@ -11,14 +11,15 @@ tags: Lagos
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-Our next event usually tagged OWASP TALKS is planned to take place on February 27, 2021 by 11AM GMT +1 and its definitely going to be an interesting online event.
+Our next event usually tagged OWASP TALKS is planned to take place on July 17, 2021 by 11AM GMT +1 and its definitely going to be an interesting online event.
 
-<img src="https://secure.meetupstatic.com/photos/event/c/8/4/highres_494763204.jpeg">
+<"https://secure.meetupstatic.com/photos/event/c/8/4/highres_494763204.jpeg">
 
 Event details
 
-1. Changed Responsibilities in Modern Software Development Environments
-2. IT Security Governance in Application Development
+1. Docker containers and How Best to Secure Them
+2. OWASP Security Knowledge Framework (SKF)
+3. Mistakes Developers Mostly Make
 
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
