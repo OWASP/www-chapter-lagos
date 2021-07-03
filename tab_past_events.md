@@ -11,6 +11,11 @@ tags: Lagos
 ---
 Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/past/) or [eventbrite](https://www.eventbrite.com/organizations/events/past). 
 
+<img src="https://secure.meetupstatic.com/photos/event/c/8/4/highres_494763204.jpeg">
+<bold>Event details</bold>
+1. Changed Responsibilities in Modern Software Development Environments
+2. IT Security Governance in Application Development
+
 <img src="https://secure.meetupstatic.com/photos/event/4/c/4/d/highres_493819533.jpeg">
 <bold>Event details</bold>
 1. A hackers mindset
