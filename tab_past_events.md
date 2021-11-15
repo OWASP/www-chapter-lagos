@@ -11,6 +11,13 @@ tags: Lagos
 ---
 Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/past/) or [eventbrite](https://www.eventbrite.com/organizations/events/past). 
 
+
+<img src="https://secure.meetupstatic.com/photos/event/8/6/8/7/highres_500254439.jpeg">
+<bold>Event details</bold>
+1. Docker containers and How Best to Secure Them
+2. OWASP Security Knowledge Framework (SKF)
+3. Mistakes Developers Mostly Make
+
 <img src="https://secure.meetupstatic.com/photos/event/c/8/4/highres_494763204.jpeg">
 <bold>Event details</bold>
 1. Changed Responsibilities in Modern Software Development Environments
