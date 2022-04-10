@@ -11,6 +11,15 @@ tags: Lagos
 ---
 Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/past/) or [eventbrite](https://www.eventbrite.com/organizations/events/past). 
 
+<img src="https://secure.meetupstatic.com/photos/event/8/4/5/0/highres_500253872.jpeg">
+<bold>Event details</bold>
+1. SOCaaS/Cybersecurity Operational Resiliency
+2. How to Implement and use Secure Code Libraries
+3. SAST, SCA, DAST, IAST, application security testing demystified
+4. Enterprise DevSecOps - E2E process & tooling
+5. Defending Web Application Beyond Secure Coding
+
+
 
 <img src="https://secure.meetupstatic.com/photos/event/8/6/8/7/highres_500254439.jpeg">
 <bold>Event details</bold>
