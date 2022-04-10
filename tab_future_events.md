@@ -26,7 +26,7 @@ Event details
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
 
-Register to attend this event at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/285175954/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-211344124967). 
+Register to attend this event at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/285175954/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-318315910457). 
 
 You can register to learn about our future events via the OWASP Lagos page at
 [meetup.com](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
