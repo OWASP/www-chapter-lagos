@@ -11,16 +11,13 @@ tags: Lagos
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-Our next event usually tagged OWASP TALKS is planned to take place on APRIL 30, 2022 by 12PM GMT +1 and its definitely going to be an interesting online event.
+Our next event is planned to take place on DEC 23, 2022 by 1PM GMT +1 and its definitely going to be an interesting online event.
 
-<img src="https://secure.meetupstatic.com/photos/event/f/f/f/highres_503284095.jpeg">
+<img src="https://secure.meetupstatic.com/photos/event/3/f/c/highres_509281020.webp?w=1920">
 
 Event details
 
-1. SKF Learning platform
-2. Mind the gap... Your AppSec Blindspot
-3. Putting the Sec in DevOps (An Intro to DevSecOps)
-4. Secure Coding: Input Validation and Data Sanitization
+1. Largest Enterprise's Vulnerability Assessment & Penetration Testing Workflow Chat
 
 
 TICKETS:
