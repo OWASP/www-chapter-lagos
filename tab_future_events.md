@@ -23,7 +23,7 @@ Event details
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
 
-Register to attend this event at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/285175954/) or [eventbrite](https://www.eventbrite.com/e/owasp-talks-tickets-318315910457). 
+Register to attend this event at [meetup](https://www.meetup.com/owasp-lagos-meetup-group/events/290375475/) or [eventbrite](https://www.eventbrite.com/e/largest-enterprises-vulnerability-assessment-penetration-testing-workflow-tickets-490755481857). 
 
 You can register to learn about our future events via the OWASP Lagos page at
 [meetup.com](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
