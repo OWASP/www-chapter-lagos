@@ -14,7 +14,7 @@ Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Gr
 
 <bold>Event details</bold>
 OWASP ZAP - Introduction and Automation
-<img src="https://www.meetup.com/owasp-lagos-meetup-group/photos/33074338/509280894/">
+<img src="https://secure.meetupstatic.com/photos/event/3/7/e/highres_509280894.webp?w=1920">
 
 <bold>Event details</bold>
 1. SOCaaS/Cybersecurity Operational Resiliency
