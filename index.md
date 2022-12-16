@@ -30,7 +30,8 @@ Our mission and main priority is to create <b>Cyber Security Awareness</b> and b
 
 We schedule our meetings on the [OWASP Lagos Meetup Group](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
 
-<p><img src="https://secure.meetupstatic.com/photos/event/3/f/c/highres_509281020.webp?w=1920"</p>
+<img src="https://secure.meetupstatic.com/photos/event/3/f/c/highres_509281020.webp?w=1920">
+  
 
 {% include chapter_events.html group=page.meetup-group %}
 
