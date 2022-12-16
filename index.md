@@ -27,6 +27,8 @@ Our mission and main priority is to create <b>Cyber Security Awareness</b> and b
 </div>
 
 ### Upcoming Meetings
+<h4 id="owasp-Dublin-is-proudly-celebrating-owasps-20th-anniversary">OWASP Dublin is proudly celebrating OWASP’s 20th Anniversary!</h4>
+<p><a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP%2020th%20Anniversary.jpeg" alt="OWASP 20th Anniversary Image" /></a></p>
 
 We schedule our meetings on the [OWASP Lagos Meetup Group](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
 <p><a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP%2020th%20Anniversary.jpeg" alt="OWASP 20th Anniversary Image" /></a></p>
