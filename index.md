@@ -30,6 +30,8 @@ Our mission and main priority is to create <b>Cyber Security Awareness</b> and b
 
 We schedule our meetings on the [OWASP Lagos Meetup Group](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
 
+<p><a href="https://secure.meetupstatic.com/photos/event/3/f/c/highres_509281020.webp?w=1920</a></p>
+
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
