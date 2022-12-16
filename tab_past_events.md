@@ -13,7 +13,7 @@ Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Gr
 
 
 <bold>Event details</bold>
-OWASP ZAP - Introduction and Automation
+1. OWASP ZAP - Introduction and Automation
 <img src="https://secure.meetupstatic.com/photos/event/3/7/e/highres_509280894.webp?w=1920">
 
 <bold>Event details</bold>
