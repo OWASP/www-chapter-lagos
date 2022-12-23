@@ -11,9 +11,9 @@ tags: Lagos
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-Our next event is planned to take place on DEC 23, 2022 by 1PM GMT +1 and its definitely going to be an interesting online event.
+Our next event is planned to take place on DEC 31, 2022 by 1PM GMT +1 and its definitely going to be an interesting online event.
 
-<img src="https://secure.meetupstatic.com/photos/event/3/f/c/highres_509281020.webp?w=1920">
+<img src="https://secure.meetupstatic.com/photos/event/a/c/1/0/highres_509444048.webp?w=1920">
 
 Event details
 
@@ -23,7 +23,7 @@ Event details
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
 
-Register to attend this event at [meetup](https://www.meetup.com/owasp-lagos-meetup-group/events/290375475/) or [eventbrite](https://www.eventbrite.com/e/largest-enterprises-vulnerability-assessment-penetration-testing-workflow-tickets-490755481857). 
+Register to attend this event at [meetup]() or [eventbrite](https://www.eventbrite.com/e/largest-enterprises-vulnerability-assessment-penetration-testing-workflow-tickets-490755481857). 
 
 You can register to learn about our future events via the OWASP Lagos page at
 [meetup.com](https://www.meetup.com/OWASP-Lagos-Meetup-Group/)
