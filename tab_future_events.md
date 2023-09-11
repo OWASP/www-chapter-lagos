@@ -1,4 +1,4 @@
-![image](https://github.com/OWASP/www-chapter-lagos/assets/46490384/f7f621ea-7eab-4bf4-be15-1b54c6aee13e)---
+---
 title: future_events
 displaytext: Future Events
 layout:  null
