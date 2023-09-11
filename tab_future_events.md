@@ -13,7 +13,7 @@ Our Chapter meetings are held several times a year, which could be at a physical
 
 We have a Webinar on SEPT 14, 2023 by 12PM GMT +1 and its definitely going to be an interesting online event.
 
-<img src="https://">
+<img src="https://www.meetup.com/owasp-lagos-meetup-group/photos/33919944/515806226/">
 
 Event details
 
