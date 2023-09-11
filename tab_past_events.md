@@ -11,6 +11,10 @@ tags: Lagos
 ---
 Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/past/) or [eventbrite](https://www.eventbrite.com/organizations/events/past). 
 
+<bold>Event details</bold>
+1. OWASP ZAP - Introduction and Automation
+<img src="https://secure.meetupstatic.com/photos/event/3/7/e/highres_509280894.webp?w=1920">
+
 
 <bold>Event details</bold>
 1. OWASP ZAP - Introduction and Automation
