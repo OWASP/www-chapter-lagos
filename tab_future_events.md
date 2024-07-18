@@ -18,7 +18,9 @@ We will be collaborating with Microsoft Naija Security Group for an online event
 Event details
 
 <b>SecureWorld in the era of Artificial Intelligence </b>
-You can apply to speak here:  https://sessionize.com/secureworld-in-the-era-of-ai/
+
+<p>You can apply to speak here:  
+<p>https://sessionize.com/secureworld-in-the-era-of-ai/
 
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
