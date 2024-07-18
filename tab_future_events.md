@@ -11,14 +11,14 @@ tags: Lagos
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-We have a Webinar on SEPT 14, 2023 by 12PM GMT +1 and its definitely going to be an interesting online event.
+We will be collaborating with Microsoft Naija Security Group for an online event entitled <b>SecureWorld in the era of Artificial Intelligence </b> on OCT 26, 2024 by 10PM GMT +1 and its definitely going to be an interesting online event.
 
 <img src="https://www.meetup.com/owasp-lagos-meetup-group/photos/33919944/515806226/">
 
 Event details
 
-1. Intro to Security in Design and Development
-2. OWASP Application Security Verification Standard (ASVS)
+<b>SecureWorld in the era of Artificial Intelligence </b>
+You can apply to speak here:  https://sessionize.com/secureworld-in-the-era-of-ai/
 
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
