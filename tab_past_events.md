@@ -11,6 +11,10 @@ tags: Lagos
 ---
 Some of our Past Events at [meetup](https://www.meetup.com/OWASP-Lagos-Meetup-Group/events/past/) or [eventbrite](https://www.eventbrite.com/organizations/events/past). 
 
+<bold>Event details</bold>
+1. Intro to Security in Design and Development
+2. OWASP Application Security Verification Standard (ASVS)
+(https://www.meetup.com/owasp-lagos-meetup-group/events/296039507/)
 
 <bold>Event details</bold>
 1. Largest Enterprise's Vulnerability Assessment & Penetration Testing Workflow Chat
