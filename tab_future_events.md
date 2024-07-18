@@ -19,7 +19,7 @@ Event details
 
 <b>SecureWorld in the era of Artificial Intelligence </b>
 
-<p>You can apply to speak here:  
+You can apply to speak here:  
 [sessionize.com](https://www.sessionize.com/secureworld-in-the-era-of-ai/)
 
 TICKETS:
