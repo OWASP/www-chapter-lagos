@@ -20,7 +20,7 @@ Event details
 <b>SecureWorld in the era of Artificial Intelligence </b>
 
 <p>You can apply to speak here:  
-<p>https://sessionize.com/secureworld-in-the-era-of-ai/
+[sessionize.com](https://www.sessionize.com/secureworld-in-the-era-of-ai/)
 
 TICKETS:
 This event will be free to attend for both members and non-members of OWASP and is open to anyone interested in application security and cyber security.
