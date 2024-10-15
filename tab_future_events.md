@@ -11,7 +11,7 @@ tags: Lagos
 ### Next Meeting/Event(s)
 Our Chapter meetings are held several times a year, which could be at a physical location or online.
 
-We will be collaborating with Microsoft Naija Security Group for an online event entitled <b>SecureWorld in the era of Artificial Intelligence </b> on OCT 26, 2024 by 10PM GMT +1 and its definitely going to be an interesting online event.
+We will be collaborating with Microsoft Naija Security Group for an online event entitled <b>SecureWorld in the era of Artificial Intelligence </b> on OCT 26, 2024 by 10AM GMT +1 and its definitely going to be an interesting online event.
 
 <img src="https://www.meetup.com/owasp-lagos-meetup-group/photos/33919944/515806226/">
 
