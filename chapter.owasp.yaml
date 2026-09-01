@@ -1,0 +1,26 @@
+leaders:
+  - name: Temitope Odemo
+    email: temitope.odemo@owasp.org
+  - name: Akinlawon Fayoku
+    email: akinlawon.fayoku@owasp.org
+  - name: Ayokunle Olaniyi
+    email: ayokunle.olaniyi@owasp.org
+location:
+  country: Nigeria
+  country_code: NG
+  region: Lagos State
+  city: Lagos
+  postal_code: '23401'
+  latitude: 6.45025315
+  longitude: 3.4300577163358605
+meetup_group: OWASP-Lagos-Meetup-Group
+name: OWASP Lagos
+repositories:
+  - name: www-chapter-lagos
+    url: https://github.com/OWASP/www-chapter-lagos
+    description: OWASP Foundation Web Repository
+tags:
+  - Lagos
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-lagos
